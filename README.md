@@ -6,9 +6,6 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/PalomaInCode">
-    <img src="https://img.shields.io/github/followers/PalomaInCode?label=GitHub&style=social" alt="GitHub">
-  </a>
   <a href="https://www.linkedin.com/in/paloma-santos-dias">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
