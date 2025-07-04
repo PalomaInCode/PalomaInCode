@@ -1,10 +1,10 @@
-<h1 align="center">👋 Olá, eu sou a Paloma</h1>
+<h1 align="left">👋 Olá, eu sou a Paloma</h1>
 <p align="center">
-  💻 Estagiária SAP MM na Stefanini | 🎓 ADS na FIAP <br>
-  📍 São Paulo - SP | 🌟 Explorando tecnologia, dados e interfaces com propósito
+  💻 Estagiária na Stefanini | 🎓 ADS na SPTech <br>
+  📍 São Paulo - SP | 🌟 Explorando tecnologia
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/PalomaInCode">
     <img src="https://img.shields.io/github/followers/PalomaInCode?label=Seguidores&style=social" alt="GitHub Followers">
   </a>
@@ -17,12 +17,10 @@
 
 ## 👩 Sobre mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na FIAP  
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na SPtech  
 - 👩‍💼 Estagiando com foco em **SAP MM** na **Stefanini**
-- 💡 Explorando Java, React, Banco de Dados, Docker e Design de Interfaces
-- 📊 Interessada em soluções com impacto social e visualização de dados
-- 🌱 Sempre aprendendo e evoluindo como profissional de tecnologia
-
+- 💡 Explorando Java, React, Banco de Dados, Docker e Design
+  
 ---
 
 ## 🛠 Tecnologias e Ferramentas
@@ -42,29 +40,17 @@
 - 📌 [**Projeto VIDA – Dashboard Analítico**](https://github.com/PalomaInCode/vida-dashboard)  
   Visualização de dados criminais da cidade de SP com foco em apoio à decisão.
 
-- 📌 [**Carrinho de Compras (Java)**](https://github.com/PalomaInCode/carrinho-java)  
-  Exercício com POO, herança, polimorfismo e manipulação de listas.
-
-- 📌 [**Investimentos em Java**](https://github.com/PalomaInCode/investimentos-java)  
-  Gestão de investimentos aplicando regras de negócio e abstração.
-
 ---
 
 ## 📈 Estatísticas GitHub
 
-<p align="center">
+<p align="left">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PalomaInCode&show_icons=true&theme=tokyonight" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalomaInCode&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📬 Como falar comigo
+## 📬 Contato
 
-- 📧 E-mail: **paloma.seu@email.com**  
-- 💼 LinkedIn: [linkedin.com/in/palomacarreiras](https://www.linkedin.com/in/palomacarreiras)
-
----
-
-⭐ Obrigada por visitar meu perfil!  
-Se curtir algum projeto, não esquece de deixar uma ⭐ nos repositórios!
+- 💼 LinkedIn: [linkedin.com/in/palomacarreiras](https://www.linkedin.com/in/paloma-santos-dias)
