@@ -1,4 +1,4 @@
-<h1 align="left">Paloma Santos</h1>
+<h1 align="left"> 👩🏻‍💻🤍 Paloma Santos</h1>
 
 <p align="center">
   💻 Estagiária na <strong>Stefanini</strong> | 🎓 ADS na <strong>SPTech</strong><br>
