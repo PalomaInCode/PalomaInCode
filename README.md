@@ -1,6 +1,6 @@
 <h1 align="left"> 👩🏻‍💻🤍 Paloma Santos</h1>
 
-<p align="center">
+<p align="left">
   💻 Estagiária na <strong>Stefanini</strong> | 🎓 ADS na <strong>SPTech</strong><br>
   📍 São Paulo - SP | 🌟 21 anos
 </p>
@@ -17,15 +17,12 @@
 ---
 
 ## 👩 Sobre mim
-
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na SPTech  
-- 👩‍💼 Estagiando com foco em **SAP MM** na Stefanini  
-- 💡 Apaixonada por aprender e criar
-
+- 👩‍💼 Estagiando com foco em **SAP MM** na Stefanini
+ 
 ---
 
 ## 🛠 Tecnologias e Ferramentas
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,30 +32,13 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![SAP](https://img.shields.io/badge/-SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 
----
-
-## 🌟 Repositórios em Destaque
-
-### 📌 [Projeto VIDA – Dashboard Analítico](https://github.com/guilherme-paiva1/vigi-data)  
-Visualização de dados criminais da cidade de SP com foco em apoio à decisão, design intuitivo e usabilidade.
-
----
-
-## 📈 Estatísticas GitHub
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PalomaInCode&show_icons=true&theme=rose_pine" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalomaInCode&layout=compact&theme=rose_pine"/>
 </p>
-
----
-
-## 📬 Contato
-
-💼 [LinkedIn: linkedin.com/in/paloma-santos-dias](https://www.linkedin.com/in/paloma-santos-dias)
-
----
-
-✨ Obrigada por visitar meu perfil! Se gostou de algum projeto, deixa uma estrelinha ⭐ 💖
