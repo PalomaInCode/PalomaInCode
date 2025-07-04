@@ -30,8 +30,8 @@
 
 <p align="center">
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PalomaInCode&show_icons=true&theme=dark" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalomaInCode&layout=compact&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PalomaInCode&show_icons=true&theme=github_dark_dimmed"" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalomaInCode&layout=compact&theme=github_dark_dimmed""/>
 </p>
 
 </p>
