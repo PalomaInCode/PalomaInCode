@@ -20,10 +20,6 @@
   </a>
 </p>
 
-## 👩🏻 Sobre mim
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na SPTech  
-- 👩‍💼 Estagiando com foco em **SAP MM** na Stefanini
-
 ## 🛠 Tecnologias e Ferramentas
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
