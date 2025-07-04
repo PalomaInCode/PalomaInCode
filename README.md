@@ -20,13 +20,9 @@
   </a>
 </p>
 
----
-
 ## 👩🏻 Sobre mim
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na SPTech  
 - 👩‍💼 Estagiando com foco em **SAP MM** na Stefanini
- 
----
 
 ## 🛠 Tecnologias e Ferramentas
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -40,8 +36,6 @@
 ![SAP](https://img.shields.io/badge/-SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 
 
 <p align="center">
