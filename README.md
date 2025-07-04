@@ -22,7 +22,7 @@
 
 ---
 
-## 👩 Sobre mim
+## 👩🏻 Sobre mim
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na SPTech  
 - 👩‍💼 Estagiando com foco em **SAP MM** na Stefanini
  
