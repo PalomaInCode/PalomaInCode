@@ -5,12 +5,18 @@
   📍 São Paulo - SP | 🌟 21 anos
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/PalomaInCode">
-    <img src="https://img.shields.io/github/followers/PalomaInCode?label=Seguidores&style=social" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/PalomaInCode?label=GitHub&style=social" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/palomacarreiras">
+  <a href="https://www.linkedin.com/in/paloma-santos-dias">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/pahsdias/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.behance.net/palomasantosdias">
+    <img src="https://img.shields.io/badge/-Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance">
   </a>
 </p>
 
