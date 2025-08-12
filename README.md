@@ -7,13 +7,6 @@
 </p>
 
 <p align="left">
-  🚀 Confira meu portfólio online:  
-  <a href="https://palomaincode.github.io/Portfolio-2025/" target="_blank" rel="noopener noreferrer">
-    <strong>palomaincode.github.io/Portfolio-2025/</strong>
-  </a>
-</p>
-
-<p align="left">
   <a href="https://www.linkedin.com/in/paloma-santos-dias">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
