@@ -2,7 +2,7 @@
 
 <p align="left">
   💻 Estagiária na <strong>@Stefanini</strong> <br>
-  ADS na <strong>@SPTech</strong><br>
+  👩🏻‍💻 ADS na <strong>@SPTech</strong><br>
   📍 São Paulo - SP | 🌟 21 anos
 </p>
 
