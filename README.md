@@ -1,8 +1,8 @@
 <h1 align="left"> 👩🏻‍💻🤍 Paloma Santos</h1>
 
 <p align="left">
-  💻 Estagiária na <strong>@Stefanini</strong> 
-  🎓 ADS na <strong>@SPTech</strong><br>
+  💻 Estagiária na <strong>@Stefanini</strong> <br>
+  ADS na <strong>@SPTech</strong><br>
   📍 São Paulo - SP | 🌟 21 anos
 </p>
 
