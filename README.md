@@ -31,6 +31,6 @@
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PalomaInCode&show_icons=true&theme=github_dark_dimmed" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalomaInCode&layout=compact&theme=github_dark_dimmed"/>
+  <img height="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PalomaInCode&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="160" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalomaInCode&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8" />
 </p>
