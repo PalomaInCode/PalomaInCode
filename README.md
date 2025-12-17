@@ -57,3 +57,15 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PalomaInCode/PalomaInCode/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PalomaInCode/PalomaInCode/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+## ✨ Sobre mim
+
+Sou apaixonada por tecnologia, design e desenvolvimento.  
+Gosto de transformar ideias em interfaces funcionais e intuitivas, sempre buscando aprender algo novo todos os dias.  
+Atualmente focada em evoluir como desenvolvedora full stack e construir projetos que realmente façam diferença.
+
+---
+
+### ⭐ Obrigada por visitar meu perfil!
