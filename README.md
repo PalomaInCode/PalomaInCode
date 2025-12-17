@@ -29,8 +29,6 @@
   </a>
 </p>
 
----
-
 ## 🛠 Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-FF9AA2?style=flat-square&logo=java&logoColor=white)
@@ -43,25 +41,3 @@
 ![Git](https://img.shields.io/badge/Git-FF9671?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-FF5DA2?style=flat-square&logo=figma&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-FF69B4?style=flat-square&logo=sap&logoColor=white)
-
----
-
-<p align="center">
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=PalomaInCode
-       &show_icons=true
-       &theme=dracula
-       &hide_border=true
-       &include_all_commits=true
-       &count_private=true
-       &ring_color=ff79c6
-       &icon_color=ff79c6
-       &title_color=ff79c6
-       &text_color=f8f8f2" />
-
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalomaInCode
-       &layout=compact
-       &hide_border=true
-       &langs_count=8" />
-</p>
