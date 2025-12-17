@@ -1,6 +1,7 @@
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6897&width=435&lines=Hello%2C+I'm+Paloma+Santos!;Software+Development+Student;ADS+%40+SPTech;SAP+%7C+Web+Development;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=Hello%2C+I'm+Paloma+Santos!;Software+Development+Student;ADS+at+SPTech;SAP+%7C+Web+Development;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,50 +11,57 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PalomaInCode/PalomaInCode/output/github-contribution-grid-snake.svg">
 </picture>
 
----
-
-<h1 align="left"> 👩🏻‍💻🤍 Paloma Santos</h1>
-
 <p align="left">
-  💻 Estagiária na <strong>Stefanini</strong> <br>
-  👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas na <strong>SPTech</strong><br>
-  📍 São Paulo - SP | 🌟 21 anos
+  💻 Intern at <strong>Stefanini</strong> <br>
+  👩🏻‍💻 Systems Analysis and Development student at <strong>SPTech</strong><br>
+  📍 São Paulo, Brazil | 🌟 21 years old
 </p>
-
----
 
 <p align="left">
   <a href="https://www.linkedin.com/in/paloma-santos-dias">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/pahsdias/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-FF69B4?style=flat-square&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.behance.net/palomasantosdias">
-    <img src="https://img.shields.io/badge/-Behance-1769FF?style=flat-square&logo=behance&logoColor=white" />
+    <img src="https://img.shields.io/badge/Behance-FF69B4?style=flat-square&logo=behance&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🛠 Tecnologias e Ferramentas
+## 🛠 Technologies & Tools
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF9AA2?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD1DC?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-FFB7C5?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-FF8FAB?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FF6F91?style=flat-square&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-FF85A2?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FF6F91?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF9671?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FF5DA2?style=flat-square&logo=figma&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-FF69B4?style=flat-square&logo=sap&logoColor=white)
 
 ---
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=PalomaInCode&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalomaInCode&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8" />
-</p>
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api?username=PalomaInCode
+       &show_icons=true
+       &theme=dracula
+       &hide_border=true
+       &include_all_commits=true
+       &count_private=true
+       &ring_color=ff79c6
+       &icon_color=ff79c6
+       &title_color=ff79c6
+       &text_color=f8f8f2" />
 
----
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalomaInCode
+       &layout=compact
+       &hide_border=true
+       &langs_count=8" />
+</p>
