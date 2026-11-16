@@ -12,7 +12,7 @@
 </picture>
 
 <p align="left">
-  💻 Intern at <strong>Stefanini</strong> <br>
+  💻 Junior Functional Analyst at <strong>Stefanini</strong> <br>
   👩🏻‍💻 Systems Analysis and Development student at <strong>SPTech</strong><br>
   📍 São Paulo, Brazil | 🌟 22 years old
 </p>
